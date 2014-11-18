@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.procards.MainActivity" >
+  
+    <item
+        android:id="@+id/suivant"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_next_item"
+        android:title="@string/suivant"
+        app:showAsAction="always">        
+    </item>
+
+</menu>

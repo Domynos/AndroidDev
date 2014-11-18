@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProCards</string>
+    <string name="portecarte">Portecarte</string>
+    <string name="envoyer_carte">Envoyer</string>
+    <string name="modif_carte">Modifier</string>
+    <string name="creer_carte">Créer</string>
+    <string name="action_settings">Settings</string>
+    <string name="ma_carte">Ma Carte</string>
+    <string name="suivant">Suivant</string>
+    <string name="back">Retour</string>
+
+</resources>

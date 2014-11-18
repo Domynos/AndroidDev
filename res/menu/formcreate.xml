@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.procards.MainActivity" >
+  
+     <item
+        android:id="@+id/back"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_back"
+        android:title="@string/back"
+        app:showAsAction="always">        
+    </item>
+    
+    <item
+        android:id="@+id/terminer"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_accept"
+        android:title="@string/suivant"
+        app:showAsAction="always">        
+    </item>
+
+</menu>
